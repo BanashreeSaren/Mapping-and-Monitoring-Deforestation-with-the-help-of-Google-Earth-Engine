@@ -3,6 +3,8 @@ The primary objective of this research paper is to examine the various facets of
 1. Exploring the main causes Fundamental elements of deforestation.
 2. Examining the ecological, climatic and socio-economic impacts of deforestation at local, regional and global scales.
 3. Analysing the effectiveness of sustainable land-use methods, reforestation, and afforestation as potential solutions
+#Study Area :
+![STUDY_AREA](https://github.com/BanashreeSaren/Mapping-and-Monitoring-Deforestation-with-the-help-of-Google-Earth-Engine/assets/158801637/c2c74eee-712c-40a1-b3f2-3f0715389e03)
 
 Land Use Land Cover: Land use and land cover (LULC) are terms used to describe the many uses of land and the physical characteristics of its surface. Land use refers to the human activities or purposes that land is used for, while land cover refers to the physical or biological coverage of the land's surface.
 
