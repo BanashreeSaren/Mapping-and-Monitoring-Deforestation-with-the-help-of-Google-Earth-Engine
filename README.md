@@ -2,7 +2,8 @@
 The primary objective of this research paper is to examine the various facets of deforestation while highlighting its causes, effects, and solutions. Particular research objectives consist of:
 1. Exploring the main causes Fundamental elements of deforestation.
 2. Examining the ecological, climatic and socio-economic impacts of deforestation at local, regional and global scales.
-3. Analysing the effectiveness of sustainable land-use methods, reforestation, and afforestation as potential solutions
+3. Analysing the effectiveness of sustainable land-use methods, reforestation, and afforestation as potential solutions.
+   
 #Study Area :
 ![STUDY_AREA](https://github.com/BanashreeSaren/Mapping-and-Monitoring-Deforestation-with-the-help-of-Google-Earth-Engine/assets/158801637/c2c74eee-712c-40a1-b3f2-3f0715389e03)
 
