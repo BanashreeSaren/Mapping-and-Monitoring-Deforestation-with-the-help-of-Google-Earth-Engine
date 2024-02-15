@@ -13,11 +13,13 @@ The primary objective of this research paper is to examine the various facets of
 ![Picture1](https://github.com/BanashreeSaren/Mapping-and-Monitoring-Deforestation-with-the-help-of-Google-Earth-Engine/assets/158801637/b89b47e6-6db5-4ab5-be98-23de29199f8d)
 
 #NDVI :
+
 ![image](https://github.com/BanashreeSaren/Mapping-and-Monitoring-Deforestation-with-the-help-of-Google-Earth-Engine/assets/158801637/2c93d77c-2b7e-4ade-be2c-5d80bde5bba6)
 
 ![image](https://github.com/BanashreeSaren/Mapping-and-Monitoring-Deforestation-with-the-help-of-Google-Earth-Engine/assets/158801637/57438958-9aca-40d6-985a-c787c71cc7a3)
 
 #NDBI :
+
 ![image](https://github.com/BanashreeSaren/Mapping-and-Monitoring-Deforestation-with-the-help-of-Google-Earth-Engine/assets/158801637/0c5288e0-af33-4f27-b6a3-67897b3bf30b)
 
 
